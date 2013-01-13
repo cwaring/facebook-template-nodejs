@@ -1,0 +1,26 @@
+{
+  "name": "BrandCamp",
+  "version": "0.0.1",
+  "description": "Template app for Heroku / Facebook integration, Node.js language",
+  "dependencies": {
+    "async": "0.1.18",
+    "ejs": "~0.8.3",
+    "express": "~3.0.6",
+    "faceplate": "~0.4.0"
+  },
+  "engines": {
+    "node": "0.8.x"
+  },
+  "readmeFilename": "Readme.md",
+  "main": "web.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:poqstudio/BrandCamp.git"
+  },
+  "author": "",
+  "license": "BSD"
+}
