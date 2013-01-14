@@ -9,7 +9,8 @@
     "faceplate": "~0.4.0"
   },
   "engines": {
-    "node": "0.8.x"
+    "node": "0.8.x",
+    "npm":  "1.1.x"
   },
   "readmeFilename": "Readme.md",
   "main": "web.js",
